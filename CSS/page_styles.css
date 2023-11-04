@@ -32,8 +32,9 @@
     clear: both;
 }
 .product_view .products_img{
-    position: absolute;
-    margin-left: -25%;
+    display: flex;
+    justify-content : center;
+    align-items : center;
 }
 
 .product_view h2{
