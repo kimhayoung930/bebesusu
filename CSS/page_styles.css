@@ -33,6 +33,7 @@
 }
 .product_view .products_img{
     position: absolute;
+    margin-left: 50%;
 }
 
 .product_view h2{
